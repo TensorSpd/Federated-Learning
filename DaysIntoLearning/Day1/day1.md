@@ -8,7 +8,6 @@
 [Read the paper on arXiv](https://arxiv.org/pdf/1908.07873) 
 
 ## Introduction to Federated Learning 🤖🔒
-## Introduction to Federated Learning 🤖🔒
 
 The introduction part of the paper **"Federated Learning: Challenges, Methods, and Future Directions"** by Tian Li et al., provides a comprehensive high-level understanding of federated learning.
 
