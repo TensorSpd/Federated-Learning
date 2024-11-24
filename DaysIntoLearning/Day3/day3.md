@@ -31,6 +31,10 @@ Dive into strategies to optimize communication, manage device variability, and e
 
 #### **1. Communication-Efficiency**
 
+<p align="center">
+  <img src="../../assets/FL_3.png" alt="Federated Learning Diagram" width="800">
+</p>
+
 - **Local Updating**:
   - Devices perform **multiple updates locally** before communicating with the server, reducing the frequency of communication.
   - Example: **FedAvg**, which aggregates local updates using stochastic gradient descent (SGD).
