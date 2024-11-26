@@ -9,7 +9,7 @@
 
 ## 📚 Source
 **SyftBox Ring App Documentation**  
-[SyftBox](https://github.com/OpenMined/SyftBox)
+[SyftBox](https://github.com/OpenMined/syft)
 
 ---
 
@@ -18,16 +18,6 @@ Dive into the conceptual design of the **SyftBox [Ring](https://github.com/OpenM
 - **Exploring Ring App Architecture** within SyftBox.
 - **Designing a Simple Regression-Based Ring App** to demonstrate federated learning principles.
 - **Planning for Collaboration** to develop and enhance the application.
-
----
-
-### 🔄 Recap of Day 4
-- **🧠 Implemented FedAvg Algorithm**:
-  - Developed the Federated Averaging (FedAvg) algorithm for aggregating client models.
-  - Simulated a federated environment with multiple clients training on local datasets.
-- **📊 Analyzed Model Performance**:
-  - Evaluated accuracy and loss under different data distributions.
-  - Visualized training dynamics to understand the impact of data heterogeneity.
 
 ---
 
