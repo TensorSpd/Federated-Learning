@@ -113,6 +113,4 @@ Instead of simply averaging client updates, TFF’s recommended aggregators enab
 - **Efficiency**: Compression and secure aggregation help handle large-scale federated training with minimal overhead.  
 - **Modularity & Flexibility**: TFF’s aggregator design lets you mix, match, and fine-tune these techniques, tailoring federated learning to specific application needs.
 
-This detailed look into TFF’s aggregation ecosystem, as presented in the official tutorials, reveals how to build highly robust, private, and efficient federated learning pipelines by strategically tuning and combining recommended aggregations. 
-
 **End of Day 12**: Moving beyond simple averaging to more sophisticated and adaptable aggregation strategies marks another leap toward practical, real-world federated learning implementations.
