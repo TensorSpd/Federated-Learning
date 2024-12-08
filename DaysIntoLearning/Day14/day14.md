@@ -110,6 +110,10 @@ The workflow involves two main roles: **Aggregator** and **Client**. Below is a 
      ```
    - Logs training progress, including loss values for each epoch.
 
+<p align="center">
+  <img src="../../assets/day14_1.png" alt="Federated Learning Diagram" height="200" width="600">
+</p>
+
 4. **Sharing Updates:**
    - Saves the trained model as `trained_model_round_<round>.pt` and sends it back to the aggregator.
 
@@ -145,6 +149,10 @@ The aggregator combines client models using weighted averaging to create a singl
 - Successfully implemented end-to-end Federated Learning workflows using SyftBox.
 - Achieved seamless communication and state management between aggregator and clients.
 - Overcame challenges with directory structures, ensuring the system worked as intended.
+
+<p align="center">
+  <img src="../../assets/day14_2.png" alt="Federated Learning Diagram" height="400" width="600">
+</p>
 
 ---
 
